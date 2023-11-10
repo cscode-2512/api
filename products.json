@@ -6,12 +6,38 @@
         "colors":[
             "#ff0000",
             "#000000",
-            "CDD0D0"
+            "#CDD0D0"
         ],
         "image":"https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=cmpress&cs=tinysgb&w=1260&h=750&dpr=1",
         "description":"Meet the iPhone X - the device that's so smart that it responds to a tap, your voice, and even a glance. Elegantly designed with a large 14.73 cm (5.8) Super Retina screen and a durable front-and-back glass, this smartphone is designed to impress. What's more, you can charge this iPhone wirelessly.",
         "category":"mobile",
         "featured":true,
+        "shipping":true
+    },
+    {
+        "name":"Samsung S20",
+        "company":"Samsung",
+        "price":5000000,
+        "colors":[
+            "#000000",
+            "#22D3Ef"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOQYBg0WeoKsfA7u0tnT7rvYto4elZXiTkg&usqp=CAU",        
+        "description":"Say hello to the powerful and stylish Samsung Galaxy S20 Ultra smartphone. Featuring a 108 MP high-resolution camera with 100X Zoom, you can capture stunning photos like never before on this smartphone. It also comes with a long-lasting 5000 mAh battery so you can stay entertained for a long time. That's not all, the Samsung Galaxy S20 Ultra comes with the Infinity-O display and a seamless design, which makes it a must-have for all the gadget-enthusiasts",
+        "category":"mobile",
+        "shipping":true
+    },
+    {
+        "name":"Dell Series",
+        "company":"Dell",
+        "price":4000000,
+        "colors":[
+            "#22D3Ef",
+            "#CDD0D0"
+        ],
+        "image":"https://m.media-amazon.com/images/I/419qXFbRCzL._SX300_SY300_QL70_FMwebp_.jpg",        
+        "description":"Dell Inspiron 3000 Series 3501 Laptop, 15.6 FHD Display, Intel Core i5-1135G7, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, WiFi, HDMI, SD Card Reader, Windows 11 Home, Black",
+        "category":"laptop",
         "shipping":true
     }
 ]
