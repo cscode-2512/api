@@ -1,0 +1,16 @@
+{
+        "id":"cs1",
+        "name":"iphoneX",
+        "company":"apple",
+        "price":6000000,
+        "colors":[
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image":"https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=cmpress&cs=tinysgb&w=1260&h=750&dpr=1",
+        "description":"Meet the iPhone X - the device that's so smart that it responds to a tap, your voice, and even a glance. Elegantly designed with a large 14.73 cm (5.8) Super Retina screen and a durable front-and-back glass, this smartphone is designed to impress. What's more, you can charge this iPhone wirelessly.",
+        "category":"mobile",
+        "featured":true,
+        "shipping":true
+  }
